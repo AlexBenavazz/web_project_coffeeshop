@@ -177,16 +177,16 @@
   border: none;
 }
 
-.recipes__videos_video-item {
+.recipes__video-item {
   max-width: 480px;
 }
 
-.recipes__videos_video-item_iframe {
+.recipes__iframe {
   max-width: 480px;
   max-height: 273px;
 }
 
-.recipes__videos_video-item_video-caption {
+.recipes__video-caption {
   display: flex;
   justify-content: space-between;
   font-family: "Inter", "Arial", sans-serif;
