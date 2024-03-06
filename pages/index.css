@@ -173,6 +173,10 @@
   padding-bottom: 215px;
 }
 
+.iframe {
+  border: none;
+}
+
 .recipes__videos_video-item {
   max-width: 480px;
 }
