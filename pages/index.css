@@ -215,7 +215,7 @@
   font-size: 44px;
   line-height: 52px;
 }
-.form__container {
+.reservation__form-container {
   display: flex;
   flex-direction: column;
   justify-content: center;
