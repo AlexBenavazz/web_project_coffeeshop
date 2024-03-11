@@ -255,7 +255,7 @@
   border-radius: 4px;
 }
 
-.form__item_reserve-button {
+.reservation-form__item_reserve-button {
   font-family: Inter;
   font-style: normal;
   font-weight: 500;
@@ -268,13 +268,13 @@
   opacity: 70%;
 }
 
-.form__item_checkbox {
+.reservation-form__item_checkbox {
   height: 20px;
   width: 20px;
   border-radius: 2px;
 }
 
-.form__checkbox-container {
+.reservation-form__checkbox-container {
   display: flex;
   flex-direction: row;
   column-gap: 12px;
